@@ -8,7 +8,7 @@ public class TestJenkinsazzaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestJenkinsazzaApplication.class, args);
-		System.out.println("Jenkins with github");
+		System.out.println("Jenkins with github2");
 		
 	}
 
